@@ -1,0 +1,15 @@
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.alabda3.twa",
+      "sha256_cert_fingerprints": [
+        "17:AD:DC:53:D2:79:74:64:16:9C:FE:C5:06:10:92:55:26:DF:CB:93:E2:F4:67:B7:6B:8A:F5:77:79:CD:AE:FA"
+      ]
+    }
+  }
+]
